@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "free": {
+    "enabled": true,
+    "line": "Next time, let the server do the work — start a job, close the tab, get the CSV by email.",
+    "buttonText": "Try the web exporter →",
+    "url": "https://postcopilot.ai/post-downloader?utm_source=chrome_extension&utm_medium=referral&utm_campaign=export_to_queue&utm_content=free_done"
+  },
+  "pro": {
+    "enabled": true,
+    "line": "Running lots of exports? Queue them on the web — fire off several in the background at once, emailed when done.",
+    "buttonText": "Open the web queue →",
+    "url": "https://postcopilot.ai/post-downloader?utm_source=chrome_extension&utm_medium=referral&utm_campaign=export_to_queue&utm_content=pro_done"
+  }
+}
